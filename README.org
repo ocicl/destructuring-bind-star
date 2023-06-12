@@ -1,0 +1,10 @@
+* destructuring-bind-star
+
+DESTRUCTURING-BIND with proper error signaling
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/destructuring-bind-star.git   |
+| commit  | 341ad43  |
+| systems | destructuring-bind-star |
+|---------+-------------------------------------------|
+
