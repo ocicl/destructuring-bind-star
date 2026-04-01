@@ -8,3 +8,4 @@ DESTRUCTURING-BIND with proper error signaling
 | systems | destructuring-bind-star |
 |---------+-------------------------------------------|
 
+ 
